@@ -1,2 +1,5 @@
-# Recriando_Instagram
-Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
+# **Recriando a interface do Instagram**
+
+Nesse projeto, com o auxilio da desenvolvedora [Gabriela Pinheiro](https://www.linkedin.com/in/gabrielapinheiro129/), foi recriado a pagina de login do instagram.
+Foram utilizados conceitos de CSS como Flexbox e responsividade. 
+
